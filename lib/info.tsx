@@ -12,10 +12,11 @@ export const about = () => {
 export const bio = () => {
   return (
     <>
-      I'm a Next.js contributor and help lead our open-source communities. I'm
-      passionate about frontend development and have created courses on React,
-      Next.js, and web development. I'm an advisor and investor in early stage
-      startups.
+      I am the founder and CEO of FrontForumFocus,
+      an early-stage startup that uses AI to connect passionate people to SDGs.
+      I have a passion for using technology to make a positive impact on the world,
+      and I am excited to be leading frontforumfocus on its mission to make a difference.
+      
     </>
   );
 };
