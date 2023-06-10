@@ -1,12 +1,11 @@
-import me from '../app/avatar.jpg';
+import me from '../app/avater.jpg';
 
-export const name = 'Lee Robinson';
+export const name = 'George Karani';
 export const avatar = me;
 export const about = () => {
   return (
     <>
-      Hey, I'm Lee. I'm the <b>VP of Developer Experience at Vercel</b> where my
-      team helps developers build a faster web.
+      Hey, I'm 21givenchy. I'm the <b>Tech founder frontforumfocus</b> where we connect individuals and organisations working to achieve SDGs.
     </>
   );
 };
