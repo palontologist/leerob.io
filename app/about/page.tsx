@@ -8,22 +8,24 @@ import {
 
 export const metadata: Metadata = {
   title: 'About',
-  description: 'VP of Developer Experience at Vercel.',
+  description: 'tech founder frontforumfocus.',
 };
 
 export default function AboutPage() {
   return (
+
     <section>
       <h1 className="font-bold text-3xl font-serif">About Me</h1>
       <p className="my-5 text-neutral-800 dark:text-neutral-200">
-        Hey, I'm Lee. Most folks know me as <b>leerob</b> online.
+        Hey, I'm George Karani. Most folks know me as <b>21givenchy</b> online.
       </p>
       <div className="prose prose-neutral dark:prose-invert text-neutral-800 dark:text-neutral-200">
         <p>
-          I'm currently the <b>VP of Developer Experience at Vercel</b>, where I
-          lead our Developer Relations and Documentation teams. I focus on{' '}
-          <b>educating and growing</b> the Vercel and Next.js communities.
-        </p>
+          I'm currently the <b>tech founder at frontforumfocus</b>, where I
+          am working on iterating on our MVP. I focus on{' '}
+           <b>leveraging cutting-edge technology and innovative design</b> 
+             to create a seamless and engaging user experience for frontforumfocus.
+          </p>
         <hr />
         <p>
           I'm passionate about many creative pursuits, including music,
@@ -38,11 +40,12 @@ export default function AboutPage() {
           no one has to ask for permission. You can just build.
         </p>
         <p className="mb-8">
-          Outside of Vercel, I <b>angel invest</b> in developer tools companies
-          and <b>advise early-stage startups</b>. I also do Developer Relations
-          consulting work, helping companies take their DevRel function from 0
-          to 1, or provide guidance on growing communities, content creation,
-          and developer marketing.
+          Outside of frontforumfocus, 
+          I <b>engage in a wide range of innovative open source projects</b>
+          and <b>have a deep passion for problem-solving</b>, and enjoy
+           collaborating with fellow founders to tackle challenging issues.
+          Additionally, I am currently a student,
+          continuously expanding my horizons and staying at the forefront of emerging technologies.
         </p>
         <div className="flex flex-col gap-2 md:flex-row md:gap-2">
           <a
