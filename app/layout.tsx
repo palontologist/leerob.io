@@ -21,11 +21,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'George Karani',
     description: 'Founder,Developer, and creator.',
-    url: 'https://',
+    url: '',
     siteName: 'George Karani',
     images: [
       {
-        url: 'https://leerob.io/og.jpg',
+        url: '',
         width: 1920,
         height: 1080,
       },
